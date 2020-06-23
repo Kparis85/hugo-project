@@ -28,3 +28,4 @@ fields:
   label: description
 pages:
 - content/post/article.md
+- content/post/mario.md
