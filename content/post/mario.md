@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["JEUX"]
 date = 2020-06-20T22:00:00Z
 description = "Nintendo"
 image = "/uploads/mario.jpg"
