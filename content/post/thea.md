@@ -14,7 +14,6 @@ tags:
 - thé
 - fort
 weight: "1"
-draft: true
 
 ---
 Nouvel article
